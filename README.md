@@ -134,7 +134,7 @@ This analysis explores the following questions:
 
 **Nitin Agarwal**
 
-Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
+Data Analyst | Python | SQL | Power BI | Data Visualization
 
 - GitHub: [nitingwl25-source](https://github.com/nitingwl25-source)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/nitinagarwal25/)
